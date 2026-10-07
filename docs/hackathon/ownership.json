@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "mode": "explicit-at-kickoff",
+  "sharedRules": "Reference snapshot, assets and copied docs are read-only to workers. Each lane also owns docs/hackathon/status/<ID>.md. Coordinator alone updates shared contracts/docs/configuration. New paths need allocation before writing.",
+  "lanes": {
+    "LEAD": {
+      "name": "Coordinator",
+      "paths": [
+        "App.tsx",
+        "index.ts",
+        "package.json",
+        "package-lock.json",
+        "app.json",
+        "tsconfig.json",
+        "eslint.config.mjs",
+        ".nvmrc",
+        ".gitignore",
+        "AGENTS.md",
+        "README.md",
+        "scripts/hackathon.py",
+        "scripts/check_harness.py",
+        "scripts/ios-t7-tests.rb",
+        "tests/ios/**",
+        "tests/fixtures/**",
+        "tests/test_harness.py",
+        "src/domain/fixtures.ts"
+      ]
+    },
+    "A": {
+      "name": "Native and model",
+      "paths": [
+        "modules/**",
+        "ios/**",
+        "android/**",
+        "src/t0/**",
+        "src/adapters/model/native.ts",
+        "src/adapters/model/study.ts",
+        "src/services/model-manager.ts",
+        "src/services/native-slot.ts",
+        "src/domain/model.ts",
+        "src/features/diagnostics/**",
+        "scripts/private-llama.mjs",
+        "scripts/t0-*",
+        "scripts/t3-fixtures.swift",
+        "scripts/t8-*",
+        "tests/model-manager.test.mjs",
+        "tests/private-llama.test.mjs"
+      ]
+    },
+    "B": {
+      "name": "Data and storage",
+      "paths": [
+        "src/db/**",
+        "src/adapters/sqlite/**",
+        "src/services/foundation.ts",
+        "src/adapters/storage-native.ts",
+        "tests/foundation.test.mjs",
+        "tests/storage.test.mjs"
+      ]
+    },
+    "C": {
+      "name": "Imports, notebooks and Home",
+      "paths": [
+        "src/features/notebooks/**",
+        "src/adapters/imports/**",
+        "src/domain/imports.ts",
+        "src/services/import-manager.ts",
+        "src/services/camera-permission.ts",
+        "src/services/sheet-dismissal.ts",
+        "tests/imports.test.mjs",
+        "tests/sheet-dismissal.test.mjs"
+      ]
+    },
+    "D": {
+      "name": "Grounded Study",
+      "paths": [
+        "src/domain/study.ts",
+        "src/services/study-manager.ts",
+        "src/features/study/NotebookStudy.tsx",
+        "src/features/study/StudyChat.tsx",
+        "src/features/study/StudyScreen.tsx",
+        "tests/study.test.mjs",
+        "tests/t8-retrieval.test.mjs"
+      ]
+    },
+    "E": {
+      "name": "Quiz and attempts",
+      "paths": [
+        "src/domain/quiz.ts",
+        "src/services/quiz-manager.ts",
+        "src/adapters/model/quiz.ts",
+        "src/features/study/QuizPanel.tsx",
+        "tests/quiz.test.mjs"
+      ]
+    },
+    "F": {
+      "name": "Progress and revision",
+      "paths": [
+        "src/domain/progress.ts",
+        "src/features/progress/**",
+        "tests/progress.test.mjs"
+      ]
+    },
+    "G": {
+      "name": "AI Buddy",
+      "paths": [
+        "src/domain/buddy.ts",
+        "src/services/buddy-manager.ts",
+        "src/adapters/model/buddy.ts",
+        "src/features/buddy/**",
+        "tests/buddy.test.mjs"
+      ]
+    },
+    "H": {
+      "name": "Shell, onboarding and Settings",
+      "paths": [
+        "app/**",
+        "src/features/onboarding/**",
+        "src/features/settings/**",
+        "src/features/shared/**",
+        "src/domain/profile.ts",
+        "src/domain/experience.ts",
+        "src/assets.d.ts",
+        "tests/experience.test.mjs"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1477 @@
+{
+  "source": "GURUKUL sibling checkout; working-tree snapshot, not a release",
+  "captured": "2026-10-06",
+  "warning": "No model weights, device data, credentials, node_modules or native builds included. Historical evidence is not target validation.",
+  "files": [
+    {
+      "path": "docs/SWE_os.md",
+      "target": "docs/SWE_os.md",
+      "category": "documentation",
+      "bytes": 15523,
+      "sha256": "e2462d0d5f7b1d2d8801601a447456b7008dfe2413f1e643efb6b6e30b8ce693"
+    },
+    {
+      "path": "docs/UX/01-start-learning-v2.png",
+      "target": "docs/UX/01-start-learning-v2.png",
+      "category": "documentation",
+      "bytes": 1663340,
+      "sha256": "8be007f1b5571b4ea04eb2ba43749861d2cc3d8006ad94a447f0737767cfd99c"
+    },
+    {
+      "path": "docs/UX/01-start-learning.png",
+      "target": "docs/UX/01-start-learning.png",
+      "category": "documentation",
+      "bytes": 1540000,
+      "sha256": "67e40d899b1a9be8edc519be46bc0b018f8285e66ac188fbc4c45fe0b5a20b48"
+    },
+    {
+      "path": "docs/UX/02-notes-and-study.png",
+      "target": "docs/UX/02-notes-and-study.png",
+      "category": "documentation",
+      "bytes": 1668270,
+      "sha256": "db8040a23a94ba91e12d323fc6bab274a8aa8227ca88ddf2170fac929b2918b6"
+    },
+    {
+      "path": "docs/UX/03-practice-and-revision.png",
+      "target": "docs/UX/03-practice-and-revision.png",
+      "category": "documentation",
+      "bytes": 1519461,
+      "sha256": "6e20904454259b214cadb2505e544386a76c38078ec5ab6952805bf72e21df94"
+    },
+    {
+      "path": "docs/UX/03.1-history-tab.png",
+      "target": "docs/UX/03.1-history-tab.png",
+      "category": "documentation",
+      "bytes": 1591305,
+      "sha256": "f8ca1afb42bf4204583c06b289bf15a1b920f1141ed3cddcf22795e85a6b242a"
+    },
+    {
+      "path": "docs/UX/04-study-states.md",
+      "target": "docs/UX/04-study-states.md",
+      "category": "documentation",
+      "bytes": 5495,
+      "sha256": "0118edaa4b79404d02ab0d2be8e3923956babaf63acd2f8ed4e2ec91438274a4"
+    },
+    {
+      "path": "docs/UX/05-quiz-states.md",
+      "target": "docs/UX/05-quiz-states.md",
+      "category": "documentation",
+      "bytes": 2770,
+      "sha256": "4784a0114f52511a9930aae36bf875d50defff0f404363aade5bb65b8a4c119a"
+    },
+    {
+      "path": "docs/UX/06-progress-states.md",
+      "target": "docs/UX/06-progress-states.md",
+      "category": "documentation",
+      "bytes": 3831,
+      "sha256": "207ead5bd30c6612da5984bd999a3c36e4e7c0960382abc23cfa2e3006fc35f0"
+    },
+    {
+      "path": "docs/UX/07-resilience-states.md",
+      "target": "docs/UX/07-resilience-states.md",
+      "category": "documentation",
+      "bytes": 4689,
+      "sha256": "afb9b10ea4ea5ca4d822109df012ee309c9faf01a78c48ea8a7fbb54f955e4c2"
+    },
+    {
+      "path": "docs/UX/08-notebook-carousel.md",
+      "target": "docs/UX/08-notebook-carousel.md",
+      "category": "documentation",
+      "bytes": 1191,
+      "sha256": "8ca0e56edb130a3449313be63b4a81e8288aff09c4a3df978c1e329ea74680d2"
+    },
+    {
+      "path": "docs/UX/09-home-ready-viewport.md",
+      "target": "docs/UX/09-home-ready-viewport.md",
+      "category": "documentation",
+      "bytes": 3078,
+      "sha256": "4388ee687b388b15b641ee8fcdd92f4bc006630fb03b3a26f558eb3f0d58761f"
+    },
+    {
+      "path": "docs/UX/10-all-notebooks.md",
+      "target": "docs/UX/10-all-notebooks.md",
+      "category": "documentation",
+      "bytes": 1183,
+      "sha256": "1fe7d8c0ae5470fccafe1aa667e05f1e1cde78bf6204c9ec16ca3f314764dcf9"
+    },
+    {
+      "path": "docs/UX/11-history-tab-prompt.txt",
+      "target": "docs/UX/11-history-tab-prompt.txt",
+      "category": "documentation",
+      "bytes": 3154,
+      "sha256": "4865b16ec9f013cd28a4a1db460d02ecfaa7053009f0f619507e7362c053c86b"
+    },
+    {
+      "path": "docs/UX/11-history-tab.md",
+      "target": "docs/UX/11-history-tab.md",
+      "category": "documentation",
+      "bytes": 2334,
+      "sha256": "47bf0933f1cfeecffdaf4132c4b551e1e964cd4965cd666e174c390b19eaf3a8"
+    },
+    {
+      "path": "docs/UX/12-digital-teacher-avatar.png",
+      "target": "docs/UX/12-digital-teacher-avatar.png",
+      "category": "documentation",
+      "bytes": 1121404,
+      "sha256": "2313d611d51f1da74884ae2c88e60bfe66c1d5d03a4f34fcb5842d406c90f40f"
+    },
+    {
+      "path": "docs/UX/12-digital-teacher-prompts.txt",
+      "target": "docs/UX/12-digital-teacher-prompts.txt",
+      "category": "documentation",
+      "bytes": 3402,
+      "sha256": "8be6a99f695c2e287031c0e93f1c2eea06cb6052bf2d2c2029522f202180bb89"
+    },
+    {
+      "path": "docs/UX/12-digital-teacher.md",
+      "target": "docs/UX/12-digital-teacher.md",
+      "category": "documentation",
+      "bytes": 4171,
+      "sha256": "5dd46628d4cb662dcd67a189d434f51db70a72057243423022ce72734ea8c0ee"
+    },
+    {
+      "path": "docs/UX/13-settings-overview.md",
+      "target": "docs/UX/13-settings-overview.md",
+      "category": "documentation",
+      "bytes": 2674,
+      "sha256": "07af37e6f10f2c85bf779045a9f733a7fef0cd594517ac577e67d9462382e9ea"
+    },
+    {
+      "path": "docs/UX/14-welcome-profile.md",
+      "target": "docs/UX/14-welcome-profile.md",
+      "category": "documentation",
+      "bytes": 5030,
+      "sha256": "32d29dbc224c11b0b75a7e477c76f1a6b2a90ac8bf720fd40276d229b90e92e1"
+    },
+    {
+      "path": "docs/UX/15-ai-buddy.md",
+      "target": "docs/UX/15-ai-buddy.md",
+      "category": "documentation",
+      "bytes": 3405,
+      "sha256": "424c7da3d43b4262a9b9cfdcb4d14fee6b9b7346745f8dbed8ebe308615daa16"
+    },
+    {
+      "path": "docs/UX/15-splash-book-v2-prompt.txt",
+      "target": "docs/UX/15-splash-book-v2-prompt.txt",
+      "category": "documentation",
+      "bytes": 2169,
+      "sha256": "2281e630fffff1b71290dfc06c431ef05862dc8eea20a20c5e0f0df8f7cafd09"
+    },
+    {
+      "path": "docs/UX/15-splash-book-v2.png",
+      "target": "docs/UX/15-splash-book-v2.png",
+      "category": "documentation",
+      "bytes": 1734539,
+      "sha256": "6c6702413230f4de19a8a896be252cd8f3a1f88c0608020be1a5feaadd31596c"
+    },
+    {
+      "path": "docs/UX/15-splash-book-v3-prompt.txt",
+      "target": "docs/UX/15-splash-book-v3-prompt.txt",
+      "category": "documentation",
+      "bytes": 1442,
+      "sha256": "1d1eab8d9af12cb47537a2b305f39a37ae56b9e709f26c392aed5357e1dfbd79"
+    },
+    {
+      "path": "docs/UX/15-splash-book-v3.png",
+      "target": "docs/UX/15-splash-book-v3.png",
+      "category": "documentation",
+      "bytes": 1584116,
+      "sha256": "d974cf6bb15a9db09399b306cb3f17864c83dc70e563cd0b111497eda44740e5"
+    },
+    {
+      "path": "docs/UX/15-splash-book-v4-prompt.txt",
+      "target": "docs/UX/15-splash-book-v4-prompt.txt",
+      "category": "documentation",
+      "bytes": 1026,
+      "sha256": "cadabfa7128ad1a0e89214290ae3ff22a407f5e1800e24b39a23c8952d4e72f7"
+    },
+    {
+      "path": "docs/UX/15-splash-book-v4.png",
+      "target": "docs/UX/15-splash-book-v4.png",
+      "category": "documentation",
+      "bytes": 1544494,
+      "sha256": "eb5ed61d5e60c6bd43f1f0fd53d27d0c3d65140201df5bc0d7a48a30bf95fa84"
+    },
+    {
+      "path": "docs/UX/15-splash-book.png",
+      "target": "docs/UX/15-splash-book.png",
+      "category": "documentation",
+      "bytes": 1755424,
+      "sha256": "8074b4543f81239762c7536f7a2cb4752434fa17eab955732159853b9f53be64"
+    },
+    {
+      "path": "docs/UX/15-splash-digital-teacher.png",
+      "target": "docs/UX/15-splash-digital-teacher.png",
+      "category": "documentation",
+      "bytes": 1466921,
+      "sha256": "26f1963c432a45bbf18060146d5448de7404a13ddc2dae0de0b3dccbdcdfbe27"
+    },
+    {
+      "path": "docs/UX/15-splash-prompts.txt",
+      "target": "docs/UX/15-splash-prompts.txt",
+      "category": "documentation",
+      "bytes": 3065,
+      "sha256": "00444fe14cedeb25b3c796ceb37483a33701e467889fcf42b48fb6f4e7bc3f7b"
+    },
+    {
+      "path": "docs/UX/15-splash-screens.md",
+      "target": "docs/UX/15-splash-screens.md",
+      "category": "documentation",
+      "bytes": 3059,
+      "sha256": "2412fa7d0ba8780af1e7527510802aa37acbcca656c0adf7c55a3120d0bc2413"
+    },
+    {
+      "path": "docs/UX/16-ai-buddy-welcome-prompt.txt",
+      "target": "docs/UX/16-ai-buddy-welcome-prompt.txt",
+      "category": "documentation",
+      "bytes": 2256,
+      "sha256": "69a0b916c4b718a47d6eea28a7bdb688d30215ccf0060bd328e6abeb4dd3a3de"
+    },
+    {
+      "path": "docs/UX/16-ai-buddy-welcome.md",
+      "target": "docs/UX/16-ai-buddy-welcome.md",
+      "category": "documentation",
+      "bytes": 1553,
+      "sha256": "32aecd280feeafda4fdd6a87a35f40aa75ffc62d71b2c51816ee998517527bc8"
+    },
+    {
+      "path": "docs/UX/16-ai-buddy-welcome.png",
+      "target": "docs/UX/16-ai-buddy-welcome.png",
+      "category": "documentation",
+      "bytes": 1752456,
+      "sha256": "09d2748da1032f50036b7fdfddb1fa7372ace105883c3b5e2766594191929e6e"
+    },
+    {
+      "path": "docs/UX/16-buddy-glass-reference.png",
+      "target": "docs/UX/16-buddy-glass-reference.png",
+      "category": "documentation",
+      "bytes": 360103,
+      "sha256": "bc42376ca822b4e1c218cf0dd2e9a1e3bce769a30de2b3edeec4a3bea455d14f"
+    },
+    {
+      "path": "docs/UX/17-app-branding-prompt.txt",
+      "target": "docs/UX/17-app-branding-prompt.txt",
+      "category": "documentation",
+      "bytes": 1162,
+      "sha256": "48ebb9fcfa923fb24b06ec0961c813914d4b896c7b2c9a17f156ad070615fdb4"
+    },
+    {
+      "path": "docs/UX/17-app-branding.md",
+      "target": "docs/UX/17-app-branding.md",
+      "category": "documentation",
+      "bytes": 1579,
+      "sha256": "4dabe28578bdaed8ef55e9be943d003881e497a8773400e5f7134dc705720586"
+    },
+    {
+      "path": "docs/UX/17-app-icon-original.png",
+      "target": "docs/UX/17-app-icon-original.png",
+      "category": "documentation",
+      "bytes": 1418153,
+      "sha256": "ff969bd63651970ccd53d3dea4ac6a2c7590d2cc1a1f2c6b475347b142421120"
+    },
+    {
+      "path": "docs/UX/17-robot-app-icon-original.png",
+      "target": "docs/UX/17-robot-app-icon-original.png",
+      "category": "documentation",
+      "bytes": 1506278,
+      "sha256": "df41b862e7562edc9780336af84165281cec8a8d077f6f5a4767abe2fbd0aa2a"
+    },
+    {
+      "path": "docs/UX/README.md",
+      "target": "docs/UX/README.md",
+      "category": "documentation",
+      "bytes": 10373,
+      "sha256": "fe7ddd1f78d043be41edc6d920453ed89fbdec3ecc4ea9e8b098f256da923d0c"
+    },
+    {
+      "path": "docs/UX/generation-prompts.txt",
+      "target": "docs/UX/generation-prompts.txt",
+      "category": "documentation",
+      "bytes": 7680,
+      "sha256": "1bc9bdadc5d8f179c4936852ecf3b991ed5f1ad306fba472c7f5459e86da4b54"
+    },
+    {
+      "path": "docs/UX/splash/README.md",
+      "target": "docs/UX/splash/README.md",
+      "category": "documentation",
+      "bytes": 2335,
+      "sha256": "9255676f7beecb0b0d29a8996ad3d8bdb8e37e10b3b437bc0d68d31a5e757c92"
+    },
+    {
+      "path": "docs/UX/splash/first01.png",
+      "target": "docs/UX/splash/first01.png",
+      "category": "documentation",
+      "bytes": 1544494,
+      "sha256": "eb5ed61d5e60c6bd43f1f0fd53d27d0c3d65140201df5bc0d7a48a30bf95fa84"
+    },
+    {
+      "path": "docs/UX/splash/splash2.png",
+      "target": "docs/UX/splash/splash2.png",
+      "category": "documentation",
+      "bytes": 1668851,
+      "sha256": "a563469516b363e89e687e4d5be0aa74207b256f74a7d86cf49a59c81d685a3d"
+    },
+    {
+      "path": "docs/UX/splash2-prompt.txt",
+      "target": "docs/UX/splash2-prompt.txt",
+      "category": "documentation",
+      "bytes": 1093,
+      "sha256": "501ca61087b712dfad6dfde7dd2dfb14e024dc61077b5dbf99ab989409faa136"
+    },
+    {
+      "path": "docs/UX/splash2.png",
+      "target": "docs/UX/splash2.png",
+      "category": "documentation",
+      "bytes": 1668851,
+      "sha256": "a563469516b363e89e687e4d5be0aa74207b256f74a7d86cf49a59c81d685a3d"
+    },
+    {
+      "path": "docs/architecture/ai.md",
+      "target": "docs/architecture/ai.md",
+      "category": "documentation",
+      "bytes": 17089,
+      "sha256": "8267d82c6ad0100c2d3b35d5de78edca7ceabb0f2f7f8b9e980f9dd01dd4290f"
+    },
+    {
+      "path": "docs/architecture/data.md",
+      "target": "docs/architecture/data.md",
+      "category": "documentation",
+      "bytes": 12822,
+      "sha256": "6857cb8b8eafad3c941f59b8230ec93040393974a685998fdf71424599767da9"
+    },
+    {
+      "path": "docs/architecture/system.md",
+      "target": "docs/architecture/system.md",
+      "category": "documentation",
+      "bytes": 9061,
+      "sha256": "79098434642535964838a041a6b57aeee0d5fd9329c2da9056b7d371281063bc"
+    },
+    {
+      "path": "docs/decisions/ADR-001-offline-v1.md",
+      "target": "docs/decisions/ADR-001-offline-v1.md",
+      "category": "documentation",
+      "bytes": 1562,
+      "sha256": "07dd905dc868205a523b824d9196dbf1d76c0ae0263a48e55f393449bbb5766b"
+    },
+    {
+      "path": "docs/decisions/ADR-002-local-ai-buddy.md",
+      "target": "docs/decisions/ADR-002-local-ai-buddy.md",
+      "category": "documentation",
+      "bytes": 2048,
+      "sha256": "aaf8e3b1514977e9d176bff548311fe11e5ae613b5a57b4d356f1c0f6d181f36"
+    },
+    {
+      "path": "docs/engineering/agent-workflow.md",
+      "target": ".starter/archive/agent-workflow.md",
+      "category": "documentation",
+      "bytes": 6659,
+      "sha256": "54ff7ad43853dd9b5f95e285ae29d5e25d0016c55cc48e9ae9af26312b693e64"
+    },
+    {
+      "path": "docs/engineering/state.md",
+      "target": ".starter/archive/state.md",
+      "category": "documentation",
+      "bytes": 93588,
+      "sha256": "c96abd19190e1f711a4247f898463511a74b47af994c753f39a05a57cc852fbb"
+    },
+    {
+      "path": "docs/engineering/t3-imports.md",
+      "target": "docs/engineering/t3-imports.md",
+      "category": "documentation",
+      "bytes": 5010,
+      "sha256": "61a1779eb2db32b655e7844da57b7902b827c111c81a4c96574a1c9c00aae5eb"
+    },
+    {
+      "path": "docs/engineering/templates/benchmark.md",
+      "target": "docs/engineering/templates/benchmark.md",
+      "category": "documentation",
+      "bytes": 965,
+      "sha256": "ccb2aed35d2a2abaefd872f8426842d0e76b83b1cfc428b8768ef0ad26bb3963"
+    },
+    {
+      "path": "docs/engineering/templates/review.md",
+      "target": "docs/engineering/templates/review.md",
+      "category": "documentation",
+      "bytes": 657,
+      "sha256": "d645de705dd5c8e99e9629d0e90dcabf4df771318b5156e8c564ca0c05d31c5b"
+    },
+    {
+      "path": "docs/engineering/templates/task.md",
+      "target": "docs/engineering/templates/task.md",
+      "category": "documentation",
+      "bytes": 911,
+      "sha256": "32cbd43a7ad4c08e30330f92fdceaae32cda6907730874faf69437adbf5ffabd"
+    },
+    {
+      "path": "docs/my-research/architecuture.md",
+      "target": "docs/my-research/architecuture.md",
+      "category": "documentation",
+      "bytes": 3618,
+      "sha256": "dc1c38a8040ec0b1a5d8a5c9f01bff097b11ec167a1a44d61c30434f0f09398b"
+    },
+    {
+      "path": "docs/my-research/compaitator.md",
+      "target": "docs/my-research/compaitator.md",
+      "category": "documentation",
+      "bytes": 11963,
+      "sha256": "6d6f8b6743f55446ee94c1af108a5accb345657057e9ba18ca2d946e561d7b76"
+    },
+    {
+      "path": "docs/my-research/ideas.md",
+      "target": "docs/my-research/ideas.md",
+      "category": "documentation",
+      "bytes": 8551,
+      "sha256": "4f55b75fe36a5accb578f36d872a315f45704c181c2ce7b07421842651eecbbd"
+    },
+    {
+      "path": "docs/my-research/laya.py",
+      "target": "docs/my-research/laya.py",
+      "category": "documentation",
+      "bytes": 959,
+      "sha256": "7d049133e276aaa2c3c31f78f7d8ac8e5943910e67f578c27648b554672dd524"
+    },
+    {
+      "path": "docs/my-research/monitization.md",
+      "target": "docs/my-research/monitization.md",
+      "category": "documentation",
+      "bytes": 446,
+      "sha256": "e3edbbbad8bd5cec6722ee85e1c0cfd2b8011989305afb4407da65682c7f7de3"
+    },
+    {
+      "path": "docs/my-research/product_palning.md",
+      "target": "docs/my-research/product_palning.md",
+      "category": "documentation",
+      "bytes": 18507,
+      "sha256": "3478f37d66472094ac9b41064593beb16ce4b3064999730baa70be72ee9d6fb1"
+    },
+    {
+      "path": "docs/my-research/school.ai.md",
+      "target": "docs/my-research/school.ai.md",
+      "category": "documentation",
+      "bytes": 20130,
+      "sha256": "b559c2fdddf3e6d506101c8b251aadc401b3cdfd0c025a2ae7b0847b9bbd8e7a"
+    },
+    {
+      "path": "docs/my-research/school.aiv2.md",
+      "target": "docs/my-research/school.aiv2.md",
+      "category": "documentation",
+      "bytes": 4149,
+      "sha256": "4e4f455739345bf684c0cdedefb771da8e768c1a1f66fa6b6deba01fa9870c84"
+    },
+    {
+      "path": "docs/plans/agent-prompts.md",
+      "target": ".starter/archive/agent-prompts.md",
+      "category": "documentation",
+      "bytes": 16777,
+      "sha256": "4a45ae74f9f66a591a841e35834d5b70d263257fe4e605f1d16f0610bbd32b4b"
+    },
+    {
+      "path": "docs/plans/v1-build.md",
+      "target": ".starter/archive/v1-build.md",
+      "category": "documentation",
+      "bytes": 56110,
+      "sha256": "cdc0a66abedca1806a72eebe8e0a83eb9e7e863eea455c22262d9075efc8040d"
+    },
+    {
+      "path": "docs/product/v1-spec.md",
+      "target": "docs/product/v1-spec.md",
+      "category": "documentation",
+      "bytes": 8264,
+      "sha256": "acbb19d70fa17c7a44c0e9e60764ccf7e6e448eafc923fc8148cb238f48e39f9"
+    },
+    {
+      "path": "docs/quality/evaluation.md",
+      "target": "docs/quality/evaluation.md",
+      "category": "documentation",
+      "bytes": 4930,
+      "sha256": "6f252720c2b2f2f2475834cdb397879ed7dbb28ce07b2a81dabc3c39a158c465"
+    },
+    {
+      "path": "docs/quality/reports/t5-quiz-feasibility.md",
+      "target": "docs/quality/reports/t5-quiz-feasibility.md",
+      "category": "documentation",
+      "bytes": 8742,
+      "sha256": "3d1973b2d8360b81a766ee64760ad22360315154b6119a4ef48ffa938dba85b4"
+    },
+    {
+      "path": "docs/quality/reports/t8-quality-results.json",
+      "target": "docs/quality/reports/t8-quality-results.json",
+      "category": "documentation",
+      "bytes": 45334,
+      "sha256": "7092b4f298f6b7198ac711eee200a01e4f0a752a7b849ab4ba6c868428eb4379"
+    },
+    {
+      "path": "docs/quality/reports/t8-release-evaluation.md",
+      "target": "docs/quality/reports/t8-release-evaluation.md",
+      "category": "documentation",
+      "bytes": 8908,
+      "sha256": "34a69e1a49f78db87bd72c0dfcc171261e807cb29363137cdffbd3cb40b51e10"
+    },
+    {
+      "path": "docs/research/synthesis.md",
+      "target": "docs/research/synthesis.md",
+      "category": "documentation",
+      "bytes": 8830,
+      "sha256": "4e7178858fa09bd5a64602b41ff41b3f0c7713409db9a79a89a1dcbdc50df463"
+    },
+    {
+      "path": "assets/branding/app-icon.png",
+      "target": "assets/branding/app-icon.png",
+      "category": "asset",
+      "bytes": 1127290,
+      "sha256": "0cd9e29bfc98966417ba88243008645ff231bcb0099b2b0dfb3e1f5232dc50ab"
+    },
+    {
+      "path": "assets/branding/robot-app-icon.png",
+      "target": "assets/branding/robot-app-icon.png",
+      "category": "asset",
+      "bytes": 1217006,
+      "sha256": "3c58a55e7119b17b44cb07908fb81868789c8c8973ccc475d96de7a7cff2a006"
+    },
+    {
+      "path": "assets/illustrations/README.md",
+      "target": "assets/illustrations/README.md",
+      "category": "asset",
+      "bytes": 1240,
+      "sha256": "1a199b6e87d7d39ff5cc3f101369f53a5210483a47421648eba66bdd1da1fa7e"
+    },
+    {
+      "path": "assets/illustrations/book-mascot.png",
+      "target": "assets/illustrations/book-mascot.png",
+      "category": "asset",
+      "bytes": 1398034,
+      "sha256": "dfc221c9eb9bac49a240e44738ea55724552a40305c640e85d0e145332bbfa23"
+    },
+    {
+      "path": "assets/illustrations/gurukul-wordmark.png",
+      "target": "assets/illustrations/gurukul-wordmark.png",
+      "category": "asset",
+      "bytes": 563512,
+      "sha256": "8c64d8e4d56b5e24542f8bebd3537f6bde7e6592c58c35135d9816af4f761015"
+    },
+    {
+      "path": "assets/illustrations/open-book.png",
+      "target": "assets/illustrations/open-book.png",
+      "category": "asset",
+      "bytes": 1899331,
+      "sha256": "b07b18f3944d5cffa2cb41b96c653b77b6136ac5ba77ba2be5c10f22fd4a60b9"
+    },
+    {
+      "path": "assets/illustrations/profile-boy.png",
+      "target": "assets/illustrations/profile-boy.png",
+      "category": "asset",
+      "bytes": 1916630,
+      "sha256": "694c76596e8abad5ca5ace194d786bc9607851e20143ebbebedb0d3ed1de501f"
+    },
+    {
+      "path": "assets/illustrations/profile-girl.png",
+      "target": "assets/illustrations/profile-girl.png",
+      "category": "asset",
+      "bytes": 1989983,
+      "sha256": "bc0c1082c91e5e25c95875fb4dac80ae62db6636dc7abc40ee3a95163e673ea1"
+    },
+    {
+      "path": "assets/illustrations/settings-avatar.png",
+      "target": "assets/illustrations/settings-avatar.png",
+      "category": "asset",
+      "bytes": 1671024,
+      "sha256": "afb8e808aa56d20e361eaeaa018865aae790a55c0df9845017fedf092641a2fc"
+    },
+    {
+      "path": "assets/illustrations/splash-book.png",
+      "target": "assets/illustrations/splash-book.png",
+      "category": "asset",
+      "bytes": 1083050,
+      "sha256": "0a6ba145d3b916a3cc595fd745ca6b205228cf53722ee74d4cb730022b72fd51"
+    },
+    {
+      "path": "assets/illustrations/welcome-background.png",
+      "target": "assets/illustrations/welcome-background.png",
+      "category": "asset",
+      "bytes": 1573433,
+      "sha256": "cede6eb72f171662116f15f46cd9478414b46f96fa4077f04f37a725cbeece4c"
+    },
+    {
+      "path": ".nvmrc",
+      "target": ".starter/reference-app/.nvmrc",
+      "category": "implementation",
+      "bytes": 8,
+      "sha256": "6d07ac247e81cd42c2c20abf8dfe504413d6b2422e4aba9b2c975a776f155921"
+    },
+    {
+      "path": "App.tsx",
+      "target": ".starter/reference-app/App.tsx",
+      "category": "implementation",
+      "bytes": 42,
+      "sha256": "5eb3c8d51bd223dd122e7764898d342f8f3d234f7f34230ee41c5055ffbeacf6"
+    },
+    {
+      "path": "app/AppShell.tsx",
+      "target": ".starter/reference-app/app/AppShell.tsx",
+      "category": "implementation",
+      "bytes": 9857,
+      "sha256": "44b58cd98b9e6a02167dc58f5faa9ff9cdbf6094d15d6be789fe12cfac760133"
+    },
+    {
+      "path": "app/routes.ts",
+      "target": ".starter/reference-app/app/routes.ts",
+      "category": "implementation",
+      "bytes": 354,
+      "sha256": "099729d637f095d09738cdf0b1b3036d10f0da48bacded43ad22ab663fb93bad"
+    },
+    {
+      "path": "app.json",
+      "target": ".starter/reference-app/app.json",
+      "category": "implementation",
+      "bytes": 801,
+      "sha256": "a18ff415e6bbd71053099cfa7352f9023bdfdcc9b26a0359940eb4200eccd054"
+    },
+    {
+      "path": "eslint.config.mjs",
+      "target": ".starter/reference-app/eslint.config.mjs",
+      "category": "implementation",
+      "bytes": 360,
+      "sha256": "a20c85ce82a24df4294a8ae5a42f485443e7e0553183de9f576eea60e1727107"
+    },
+    {
+      "path": "index.ts",
+      "target": ".starter/reference-app/index.ts",
+      "category": "implementation",
+      "bytes": 100,
+      "sha256": "3cc816440c81db1b45a7d796c25ee6b45e19cfa2d64f1f934e42b1384c82d90b"
+    },
+    {
+      "path": "modules/document-reader/android/build.gradle",
+      "target": ".starter/reference-app/modules/document-reader/android/build.gradle",
+      "category": "implementation",
+      "bytes": 321,
+      "sha256": "de90ccaca325a853b9e87e0dbe309f7ea57364859f266a0cd1a788447fa79bc0"
+    },
+    {
+      "path": "modules/document-reader/android/src/main/AndroidManifest.xml",
+      "target": ".starter/reference-app/modules/document-reader/android/src/main/AndroidManifest.xml",
+      "category": "implementation",
+      "bytes": 72,
+      "sha256": "343d5be1ac17cdd45d1a2f2ddc616c509290e655869125a9422a96d88aa66066"
+    },
+    {
+      "path": "modules/document-reader/android/src/main/java/org/gurukul/t0/DocumentReaderModule.kt",
+      "target": ".starter/reference-app/modules/document-reader/android/src/main/java/org/gurukul/t0/DocumentReaderModule.kt",
+      "category": "implementation",
+      "bytes": 5221,
+      "sha256": "4c53fa137a3a0a0ada62e72bab5e679e85ef99e39b0fd7e5ea2f418dca1898ea"
+    },
+    {
+      "path": "modules/document-reader/android/src/main/java/org/gurukul/t0/SourceDocuments.kt",
+      "target": ".starter/reference-app/modules/document-reader/android/src/main/java/org/gurukul/t0/SourceDocuments.kt",
+      "category": "implementation",
+      "bytes": 5833,
+      "sha256": "53fa00426d0f5212033f7b466114948c8dfc4dde988dfbf4477fa93687a7a2a8"
+    },
+    {
+      "path": "modules/document-reader/expo-module.config.json",
+      "target": ".starter/reference-app/modules/document-reader/expo-module.config.json",
+      "category": "implementation",
+      "bytes": 161,
+      "sha256": "7e192efb59cef3d92db1318d0ff8d55369ae3f36e5a802b05ddd29945c714f4f"
+    },
+    {
+      "path": "modules/document-reader/ios/DocumentReader.podspec",
+      "target": ".starter/reference-app/modules/document-reader/ios/DocumentReader.podspec",
+      "category": "implementation",
+      "bytes": 597,
+      "sha256": "4ef78bd41e1c8a9a0a7631cf4d68fd6ecb6c8f488a6ecf983c30c3bff8cdb25b"
+    },
+    {
+      "path": "modules/document-reader/ios/DocumentReaderModule.swift",
+      "target": ".starter/reference-app/modules/document-reader/ios/DocumentReaderModule.swift",
+      "category": "implementation",
+      "bytes": 5320,
+      "sha256": "5efd1ec5a654796f809f0dc3403a97a8ca59dc81aa358e1a0f775e51dc571613"
+    },
+    {
+      "path": "modules/document-reader/ios/LocalDocuments.swift",
+      "target": ".starter/reference-app/modules/document-reader/ios/LocalDocuments.swift",
+      "category": "implementation",
+      "bytes": 6461,
+      "sha256": "257c49bca008510b6a855c61e08a55fa04817c1e237a4137cabc35427b627d4c"
+    },
+    {
+      "path": "modules/document-reader/ios/SourceDocuments.swift",
+      "target": ".starter/reference-app/modules/document-reader/ios/SourceDocuments.swift",
+      "category": "implementation",
+      "bytes": 6603,
+      "sha256": "848b5ae6e66a2cb5fee7e85efb8e789a1a00b1a571f829a40b6ad2a97d4c8e88"
+    },
+    {
+      "path": "modules/document-reader/package.json",
+      "target": ".starter/reference-app/modules/document-reader/package.json",
+      "category": "implementation",
+      "bytes": 81,
+      "sha256": "a3fe6bcbf01f267a446b0fca1e77caf2c3f51a6bd2688460cfd45f1bc384a0f1"
+    },
+    {
+      "path": "package-lock.json",
+      "target": ".starter/reference-app/package-lock.json",
+      "category": "implementation",
+      "bytes": 272435,
+      "sha256": "57a729e241448ffc667c36594d443ddbff8adb0abc07590b49cd4390eb876bd1"
+    },
+    {
+      "path": "package.json",
+      "target": ".starter/reference-app/package.json",
+      "category": "implementation",
+      "bytes": 1555,
+      "sha256": "4fb182af5327556e4287e8376b8b9d29e25970dbbcc6d7d0ad9e55cb1439c8ba"
+    },
+    {
+      "path": "scripts/check_harness.py",
+      "target": ".starter/reference-app/scripts/check_harness.py",
+      "category": "implementation",
+      "bytes": 6879,
+      "sha256": "848887da8c52ed2e4b989c2856685bbc4738f7f366241cc2538959cc40d1557d"
+    },
+    {
+      "path": "scripts/ios-t7-tests.rb",
+      "target": ".starter/reference-app/scripts/ios-t7-tests.rb",
+      "category": "implementation",
+      "bytes": 1620,
+      "sha256": "ee93a757a9126b1696594279564b38d0ff9772062d478231650ece6855c649e8"
+    },
+    {
+      "path": "scripts/private-llama.mjs",
+      "target": ".starter/reference-app/scripts/private-llama.mjs",
+      "category": "implementation",
+      "bytes": 4520,
+      "sha256": "985321a10a84f85fb7979d3fff846ec8f80f51b9f95d36374ffcd0cc691d1c0c"
+    },
+    {
+      "path": "scripts/t0-ingestion.swift",
+      "target": ".starter/reference-app/scripts/t0-ingestion.swift",
+      "category": "implementation",
+      "bytes": 4294,
+      "sha256": "b9d753b304e0830793607c38320c6f42dd22ba23c9ff9ebf5c515708991df7ee"
+    },
+    {
+      "path": "scripts/t0-ios-ocr-smoke.swift",
+      "target": ".starter/reference-app/scripts/t0-ios-ocr-smoke.swift",
+      "category": "implementation",
+      "bytes": 1917,
+      "sha256": "f684051ed844c4641e2c604e05ddc2acc5512ae2b17b3804eaaaa4e6c855adeb"
+    },
+    {
+      "path": "scripts/t0-model.mjs",
+      "target": ".starter/reference-app/scripts/t0-model.mjs",
+      "category": "implementation",
+      "bytes": 1787,
+      "sha256": "9a8157e9bea3028299b0f4c7e012c8e9c69464f280e518a9bcce59c6b173c7c7"
+    },
+    {
+      "path": "scripts/t3-fixtures.swift",
+      "target": ".starter/reference-app/scripts/t3-fixtures.swift",
+      "category": "implementation",
+      "bytes": 3306,
+      "sha256": "dc289edae5ddb88d0b4804f7d5a6daf93fa95c5bc6b26bb59cde255f8845751e"
+    },
+    {
+      "path": "scripts/t8-fixtures.swift",
+      "target": ".starter/reference-app/scripts/t8-fixtures.swift",
+      "category": "implementation",
+      "bytes": 2099,
+      "sha256": "76061ad6637c3de15dc326bc851f1d2761911c6f3b777018a6e1d8b786228b38"
+    },
+    {
+      "path": "scripts/t8-results.mjs",
+      "target": ".starter/reference-app/scripts/t8-results.mjs",
+      "category": "implementation",
+      "bytes": 5682,
+      "sha256": "89839bcdd9dc5af79bd9810fb53a0cf611155a3801cb9fb436d390c41ac8763f"
+    },
+    {
+      "path": "src/adapters/imports/native.ts",
+      "target": ".starter/reference-app/src/adapters/imports/native.ts",
+      "category": "implementation",
+      "bytes": 4344,
+      "sha256": "56bb34fd16c6d6aec0d91897cc3c8bdb41ff5d62e5eccc8438cd1774f1097507"
+    },
+    {
+      "path": "src/adapters/model/buddy.ts",
+      "target": ".starter/reference-app/src/adapters/model/buddy.ts",
+      "category": "implementation",
+      "bytes": 943,
+      "sha256": "04af884d815c9e419dba8f38e1298263f47a02a3a0f39a4eab57ad721e53e517"
+    },
+    {
+      "path": "src/adapters/model/native.ts",
+      "target": ".starter/reference-app/src/adapters/model/native.ts",
+      "category": "implementation",
+      "bytes": 4244,
+      "sha256": "125205cb4c10c6f7fb6e96dd38084de9a1688e8098d17e953ee7a7afdea5f8e1"
+    },
+    {
+      "path": "src/adapters/model/quiz.ts",
+      "target": ".starter/reference-app/src/adapters/model/quiz.ts",
+      "category": "implementation",
+      "bytes": 961,
+      "sha256": "38c9b5ecda7cb855924fdc4b51d0a22d63bfb7aea6469b73757da8460807e4ca"
+    },
+    {
+      "path": "src/adapters/model/study.ts",
+      "target": ".starter/reference-app/src/adapters/model/study.ts",
+      "category": "implementation",
+      "bytes": 3615,
+      "sha256": "1763bb141b0a65bb424a43659a8f06642dfac69d3bd1b768d46c7c0feff8bb4b"
+    },
+    {
+      "path": "src/adapters/sqlite/buddy.ts",
+      "target": ".starter/reference-app/src/adapters/sqlite/buddy.ts",
+      "category": "implementation",
+      "bytes": 3302,
+      "sha256": "c0e6ded48e89769ccc0d912aab84153b8425c096565c1debf92b2de55e92e8bd"
+    },
+    {
+      "path": "src/adapters/sqlite/imports.ts",
+      "target": ".starter/reference-app/src/adapters/sqlite/imports.ts",
+      "category": "implementation",
+      "bytes": 10122,
+      "sha256": "18561ba896f1caa65dba417df96435ab80a1293ef59974c56e99d25101cb530d"
+    },
+    {
+      "path": "src/adapters/sqlite/models.ts",
+      "target": ".starter/reference-app/src/adapters/sqlite/models.ts",
+      "category": "implementation",
+      "bytes": 1566,
+      "sha256": "44f3711db37c7f84db536566e9da5f96b22c3ae6d0cc80a8c066b0d4bdeba8b1"
+    },
+    {
+      "path": "src/adapters/sqlite/open.ts",
+      "target": ".starter/reference-app/src/adapters/sqlite/open.ts",
+      "category": "implementation",
+      "bytes": 1763,
+      "sha256": "3db8a0fa25b02ecee2544a3396826d547bd8bf69dc5ab467f0c08f53feb29cb3"
+    },
+    {
+      "path": "src/adapters/sqlite/progress.ts",
+      "target": ".starter/reference-app/src/adapters/sqlite/progress.ts",
+      "category": "implementation",
+      "bytes": 4427,
+      "sha256": "20b7eb2c1a29223f443115e3cc665406e78537796505c2278ad1e01fb1d888a8"
+    },
+    {
+      "path": "src/adapters/sqlite/quizzes.ts",
+      "target": ".starter/reference-app/src/adapters/sqlite/quizzes.ts",
+      "category": "implementation",
+      "bytes": 7274,
+      "sha256": "2f8b6ca9780b151fa1430147abf3b7bf8cf9700baaea07d27c547f9a9933c1b1"
+    },
+    {
+      "path": "src/adapters/sqlite/repository.ts",
+      "target": ".starter/reference-app/src/adapters/sqlite/repository.ts",
+      "category": "implementation",
+      "bytes": 2822,
+      "sha256": "56044cf846c9a453e46db493d02f37df34b0520da6e74ec2f82fa6e8caa347cb"
+    },
+    {
+      "path": "src/adapters/sqlite/storage.ts",
+      "target": ".starter/reference-app/src/adapters/sqlite/storage.ts",
+      "category": "implementation",
+      "bytes": 8013,
+      "sha256": "fa499b29b319292d0078b40ee9053c29ed65af17b9547c724751f35f0dc1f6cd"
+    },
+    {
+      "path": "src/adapters/sqlite/study.ts",
+      "target": ".starter/reference-app/src/adapters/sqlite/study.ts",
+      "category": "implementation",
+      "bytes": 4211,
+      "sha256": "d4ece75e34c8a21c391f6495cfbbd54c59fe8f8384adac1225ee0dee5e485fbf"
+    },
+    {
+      "path": "src/adapters/storage-native.ts",
+      "target": ".starter/reference-app/src/adapters/storage-native.ts",
+      "category": "implementation",
+      "bytes": 1184,
+      "sha256": "da20ba8d8d9c8421472130b13a1f5a476044e93cfa14fa4cc3f43aa862ea5902"
+    },
+    {
+      "path": "src/assets.d.ts",
+      "target": ".starter/reference-app/src/assets.d.ts",
+      "category": "implementation",
+      "bytes": 110,
+      "sha256": "54b91dcbba32afdf6e81d72d4050f5c60919b00c658d8bd39f9323e37868d6aa"
+    },
+    {
+      "path": "src/db/migrate.ts",
+      "target": ".starter/reference-app/src/db/migrate.ts",
+      "category": "implementation",
+      "bytes": 2152,
+      "sha256": "c4ff5e0afa15988c1cd987803c173501121d12e664738b413e396f2a072ab77e"
+    },
+    {
+      "path": "src/db/migrations/001-foundation.ts",
+      "target": ".starter/reference-app/src/db/migrations/001-foundation.ts",
+      "category": "implementation",
+      "bytes": 1066,
+      "sha256": "c79238650e8d96f6e39db005994d16dc940d2f2b88c7964d31e4a006de8ba659"
+    },
+    {
+      "path": "src/db/migrations/002-model-installations.ts",
+      "target": ".starter/reference-app/src/db/migrations/002-model-installations.ts",
+      "category": "implementation",
+      "bytes": 641,
+      "sha256": "32224c2358c3f823ea5ae1997e05cb4d467ea54f49bb70393abb51641736c6cb"
+    },
+    {
+      "path": "src/db/migrations/003-imports.ts",
+      "target": ".starter/reference-app/src/db/migrations/003-imports.ts",
+      "category": "implementation",
+      "bytes": 3173,
+      "sha256": "da4d6e6e8f38e331ee050fa26c959ae24b01089410fc44762ea3c4d3bb4c2e74"
+    },
+    {
+      "path": "src/db/migrations/004-study.ts",
+      "target": ".starter/reference-app/src/db/migrations/004-study.ts",
+      "category": "implementation",
+      "bytes": 820,
+      "sha256": "c71f0180377b01437afd912f4261ac10051993899a25de9970c0faf5007cfef2"
+    },
+    {
+      "path": "src/db/migrations/005-quizzes.ts",
+      "target": ".starter/reference-app/src/db/migrations/005-quizzes.ts",
+      "category": "implementation",
+      "bytes": 2236,
+      "sha256": "e51c3295be397514116519a94166f80a4151530c04a21d16756cae8bdf352870"
+    },
+    {
+      "path": "src/db/migrations/006-progress.ts",
+      "target": ".starter/reference-app/src/db/migrations/006-progress.ts",
+      "category": "implementation",
+      "bytes": 663,
+      "sha256": "ab0d4d220d06de6617c85286e67f982771135240f5671e179da0eef630779b08"
+    },
+    {
+      "path": "src/db/migrations/007-cleanup.ts",
+      "target": ".starter/reference-app/src/db/migrations/007-cleanup.ts",
+      "category": "implementation",
+      "bytes": 320,
+      "sha256": "534bd36ae0fff325302318ea96279adc01aee5b726a2b196f797d4c6f075bfee"
+    },
+    {
+      "path": "src/db/migrations/008-local-session.ts",
+      "target": ".starter/reference-app/src/db/migrations/008-local-session.ts",
+      "category": "implementation",
+      "bytes": 495,
+      "sha256": "b84376abd6073db65d3e5d0058a5c63937221812169d49a67ec6371135a495e3"
+    },
+    {
+      "path": "src/db/migrations/009-buddy.ts",
+      "target": ".starter/reference-app/src/db/migrations/009-buddy.ts",
+      "category": "implementation",
+      "bytes": 939,
+      "sha256": "281d27b5f0a9f902df751b40406e25dd8fe01f6607dd1b24d9230e6807c40b23"
+    },
+    {
+      "path": "src/db/migrations/010-profile-avatar.ts",
+      "target": ".starter/reference-app/src/db/migrations/010-profile-avatar.ts",
+      "category": "implementation",
+      "bytes": 258,
+      "sha256": "f3cf730d2ca57fe823e7190d6356e331c73a225a4c3d3ecea22160339155ab7d"
+    },
+    {
+      "path": "src/db/types.ts",
+      "target": ".starter/reference-app/src/db/types.ts",
+      "category": "implementation",
+      "bytes": 636,
+      "sha256": "ade04c83f036948747710dc245c32a0ab99cb841d3985a3e7a2e03abc33eabce"
+    },
+    {
+      "path": "src/domain/buddy.ts",
+      "target": ".starter/reference-app/src/domain/buddy.ts",
+      "category": "implementation",
+      "bytes": 2716,
+      "sha256": "0316e022e45ef197a20ff1d441199ad00eb5f49070e4634a09d1671ac0628b22"
+    },
+    {
+      "path": "src/domain/experience.ts",
+      "target": ".starter/reference-app/src/domain/experience.ts",
+      "category": "implementation",
+      "bytes": 1462,
+      "sha256": "8409dc93172a3fb0723c5b6dd11f67c809c41a6ec59a1452d0aa513ab8e247b3"
+    },
+    {
+      "path": "src/domain/fixtures.ts",
+      "target": ".starter/reference-app/src/domain/fixtures.ts",
+      "category": "implementation",
+      "bytes": 297,
+      "sha256": "e75b474709708eb947533674edabd11f5f7e3e3d56b98cb1730505ea0a890ad8"
+    },
+    {
+      "path": "src/domain/imports.ts",
+      "target": ".starter/reference-app/src/domain/imports.ts",
+      "category": "implementation",
+      "bytes": 4677,
+      "sha256": "21a5dc1f382d932e2c333aff8d7d31a0f9bde1a95b3f92275fda10f4627470c3"
+    },
+    {
+      "path": "src/domain/model.ts",
+      "target": ".starter/reference-app/src/domain/model.ts",
+      "category": "implementation",
+      "bytes": 1597,
+      "sha256": "33a822848cb82ccb75754723b5acee8080dfd013035e38f8e8e530dac5d91ca6"
+    },
+    {
+      "path": "src/domain/profile.ts",
+      "target": ".starter/reference-app/src/domain/profile.ts",
+      "category": "implementation",
+      "bytes": 1022,
+      "sha256": "fcf36cc6736405a4540973a66d359dc93096595cf33be4ea6e760e9b7227a978"
+    },
+    {
+      "path": "src/domain/progress.ts",
+      "target": ".starter/reference-app/src/domain/progress.ts",
+      "category": "implementation",
+      "bytes": 5481,
+      "sha256": "52f4d3bde5e02d961a5cc00b213365a297ce526bede4b931c8016ca59d70db2a"
+    },
+    {
+      "path": "src/domain/quiz.ts",
+      "target": ".starter/reference-app/src/domain/quiz.ts",
+      "category": "implementation",
+      "bytes": 7934,
+      "sha256": "876238f6d8badd28f63d53250b842b27148ce5c249f776a8f866e7906484730a"
+    },
+    {
+      "path": "src/domain/study.ts",
+      "target": ".starter/reference-app/src/domain/study.ts",
+      "category": "implementation",
+      "bytes": 6022,
+      "sha256": "a0ac55f2502bd5f219a90ba9deb6a6707473213735c491b9289a12f6816ffec3"
+    },
+    {
+      "path": "src/features/buddy/BuddyScreen.tsx",
+      "target": ".starter/reference-app/src/features/buddy/BuddyScreen.tsx",
+      "category": "implementation",
+      "bytes": 14211,
+      "sha256": "8e16e1bae19662c3ef9cc289f7f62b90b59dece50aa68cd894e44b5781e0dae1"
+    },
+    {
+      "path": "src/features/buddy/BuddyWelcome.tsx",
+      "target": ".starter/reference-app/src/features/buddy/BuddyWelcome.tsx",
+      "category": "implementation",
+      "bytes": 2915,
+      "sha256": "4fa001b6485aaa1bfed79280c4378d06dc153ad5146c2c26c7572468febad827"
+    },
+    {
+      "path": "src/features/diagnostics/T0Screen.tsx",
+      "target": ".starter/reference-app/src/features/diagnostics/T0Screen.tsx",
+      "category": "implementation",
+      "bytes": 5267,
+      "sha256": "a8353d46e81b50191ee4bef2a9476f185a54fd99d9e50fcf1c3e72e342997c1b"
+    },
+    {
+      "path": "src/features/diagnostics/T2Smoke.tsx",
+      "target": ".starter/reference-app/src/features/diagnostics/T2Smoke.tsx",
+      "category": "implementation",
+      "bytes": 3902,
+      "sha256": "5632b386b95316c0b0e0fa85cbfbe4972ce275434daea72b7d6ec4f6ebef3f43"
+    },
+    {
+      "path": "src/features/diagnostics/T3Smoke.tsx",
+      "target": ".starter/reference-app/src/features/diagnostics/T3Smoke.tsx",
+      "category": "implementation",
+      "bytes": 6513,
+      "sha256": "9d69a88bc0410a49f6f281fe6985d5bc13f6b800b134b9f451bc5c9ec86ea120"
+    },
+    {
+      "path": "src/features/diagnostics/T4Smoke.tsx",
+      "target": ".starter/reference-app/src/features/diagnostics/T4Smoke.tsx",
+      "category": "implementation",
+      "bytes": 4635,
+      "sha256": "9424ad62f733907aa3c6684054ed8d83f0168ce2e65785574a97b31e2f98c751"
+    },
+    {
+      "path": "src/features/diagnostics/T5Smoke.tsx",
+      "target": ".starter/reference-app/src/features/diagnostics/T5Smoke.tsx",
+      "category": "implementation",
+      "bytes": 9754,
+      "sha256": "04e492c0f7b7827d51c0981e27ac8730136f88cb4fddd81027aad135a7d116e2"
+    },
+    {
+      "path": "src/features/diagnostics/T7Smoke.tsx",
+      "target": ".starter/reference-app/src/features/diagnostics/T7Smoke.tsx",
+      "category": "implementation",
+      "bytes": 9033,
+      "sha256": "7359304e3131310dac60faef7fc40efadf4c6f3a70e8903113bdd060980df525"
+    },
+    {
+      "path": "src/features/diagnostics/T8Evaluation.tsx",
+      "target": ".starter/reference-app/src/features/diagnostics/T8Evaluation.tsx",
+      "category": "implementation",
+      "bytes": 14240,
+      "sha256": "abbe69887d3dbdbe952bb661694240cd0728bf77158130e24c0155ab716079bf"
+    },
+    {
+      "path": "src/features/diagnostics/quiz-candidate.json",
+      "target": ".starter/reference-app/src/features/diagnostics/quiz-candidate.json",
+      "category": "implementation",
+      "bytes": 663,
+      "sha256": "6e03deceb8eeb9fb985850b94685182f67ce8cdd312eb56b914d10106c947791"
+    },
+    {
+      "path": "src/features/notebooks/HomeReady.tsx",
+      "target": ".starter/reference-app/src/features/notebooks/HomeReady.tsx",
+      "category": "implementation",
+      "bytes": 9753,
+      "sha256": "0a00c077a3a77fa0d63622d89a99ffa57d45f2a189db4c18abc794d322adb164"
+    },
+    {
+      "path": "src/features/notebooks/LibraryScreen.tsx",
+      "target": ".starter/reference-app/src/features/notebooks/LibraryScreen.tsx",
+      "category": "implementation",
+      "bytes": 27249,
+      "sha256": "af68b77fbeefc789e2325eb76c83a8101054a915482cc09d252dde78c3e1c663"
+    },
+    {
+      "path": "src/features/notebooks/NotebooksScreen.tsx",
+      "target": ".starter/reference-app/src/features/notebooks/NotebooksScreen.tsx",
+      "category": "implementation",
+      "bytes": 958,
+      "sha256": "c35fe9a97749b1c280bca3bce87b57e1e0b2066029a6605054d3add6cf4321db"
+    },
+    {
+      "path": "src/features/onboarding/IntroductionScreen.tsx",
+      "target": ".starter/reference-app/src/features/onboarding/IntroductionScreen.tsx",
+      "category": "implementation",
+      "bytes": 4764,
+      "sha256": "607cdae3232e31f674fbbef518f9f460c11faa83a57a098d0005e49f5790cc20"
+    },
+    {
+      "path": "src/features/onboarding/ProfileForm.tsx",
+      "target": ".starter/reference-app/src/features/onboarding/ProfileForm.tsx",
+      "category": "implementation",
+      "bytes": 5698,
+      "sha256": "ca135139518846ff5d964433f4c84682acfa787fd69dda2a52fd8f0a7f3f3c24"
+    },
+    {
+      "path": "src/features/onboarding/TeacherSetup.tsx",
+      "target": ".starter/reference-app/src/features/onboarding/TeacherSetup.tsx",
+      "category": "implementation",
+      "bytes": 5511,
+      "sha256": "949d220711c3fcf92611979ba450f96201e573dd0fb57a75f41f62e7b0954cb0"
+    },
+    {
+      "path": "src/features/onboarding/WelcomeScreen.tsx",
+      "target": ".starter/reference-app/src/features/onboarding/WelcomeScreen.tsx",
+      "category": "implementation",
+      "bytes": 2936,
+      "sha256": "65365bbb0288a810a3ebfada87e72c6af8c64d3d5b7d241596639ef9464e3083"
+    },
+    {
+      "path": "src/features/onboarding/profile-avatars.ts",
+      "target": ".starter/reference-app/src/features/onboarding/profile-avatars.ts",
+      "category": "implementation",
+      "bytes": 178,
+      "sha256": "9f7f6424bef36a8016a3d705f07b3af1e8611273a900cec824db3530560bbe27"
+    },
+    {
+      "path": "src/features/progress/ProgressScreen.tsx",
+      "target": ".starter/reference-app/src/features/progress/ProgressScreen.tsx",
+      "category": "implementation",
+      "bytes": 15747,
+      "sha256": "ffd6d1d725504d75fa4bb8f44dc656d3204f601c81b1b4446678d3ddf5e1d3a8"
+    },
+    {
+      "path": "src/features/settings/ModelCard.tsx",
+      "target": ".starter/reference-app/src/features/settings/ModelCard.tsx",
+      "category": "implementation",
+      "bytes": 5014,
+      "sha256": "cd5e5279cb3db8e5ab2eba47c4764f3a82e3162e1ee9382573a02e6435510d29"
+    },
+    {
+      "path": "src/features/settings/SettingsScreen.tsx",
+      "target": ".starter/reference-app/src/features/settings/SettingsScreen.tsx",
+      "category": "implementation",
+      "bytes": 9484,
+      "sha256": "107361c2f95b61f1098a9e49c717b62e84d66c83165a5c4583f273264bf2012c"
+    },
+    {
+      "path": "src/features/settings/StorageCard.tsx",
+      "target": ".starter/reference-app/src/features/settings/StorageCard.tsx",
+      "category": "implementation",
+      "bytes": 5520,
+      "sha256": "d2352c204836d00b1ebf997b4847aee8e2008b4b00452c5bc6adbf0ca23ca4ce"
+    },
+    {
+      "path": "src/features/shared/TeacherStatus.tsx",
+      "target": ".starter/reference-app/src/features/shared/TeacherStatus.tsx",
+      "category": "implementation",
+      "bytes": 1195,
+      "sha256": "7a0e43d9e04319ffb7be4095766805b0f34cacb56ff3777f9e3b7a311c80bcb7"
+    },
+    {
+      "path": "src/features/shared/ui.tsx",
+      "target": ".starter/reference-app/src/features/shared/ui.tsx",
+      "category": "implementation",
+      "bytes": 1828,
+      "sha256": "cc99908ec371998030da2bae8ba9f0840c112779425525416c9824a8718f5514"
+    },
+    {
+      "path": "src/features/study/NotebookStudy.tsx",
+      "target": ".starter/reference-app/src/features/study/NotebookStudy.tsx",
+      "category": "implementation",
+      "bytes": 6905,
+      "sha256": "0c236b5ec739ad7bfe6252a96063f3dcd8d12333c9af2a75b3615a1268705cc4"
+    },
+    {
+      "path": "src/features/study/QuizPanel.tsx",
+      "target": ".starter/reference-app/src/features/study/QuizPanel.tsx",
+      "category": "implementation",
+      "bytes": 11390,
+      "sha256": "ff21fd02817a7985bdf223f11ac96967fef8d268451e7a10e4c5fb1882e582ed"
+    },
+    {
+      "path": "src/features/study/StudyChat.tsx",
+      "target": ".starter/reference-app/src/features/study/StudyChat.tsx",
+      "category": "implementation",
+      "bytes": 9177,
+      "sha256": "4685494f304bfc4b8df3d63beed05b5135a6e37ed7515da2f4358beebb62906e"
+    },
+    {
+      "path": "src/features/study/StudyScreen.tsx",
+      "target": ".starter/reference-app/src/features/study/StudyScreen.tsx",
+      "category": "implementation",
+      "bytes": 559,
+      "sha256": "1b9fa9cdb5c2d8711f9295b212c9322b4b4e1ae0e6a4654a6b6fa2e396ee7a54"
+    },
+    {
+      "path": "src/services/buddy-manager.ts",
+      "target": ".starter/reference-app/src/services/buddy-manager.ts",
+      "category": "implementation",
+      "bytes": 3256,
+      "sha256": "639006213cd8c842c3fe95d0ca6299ca7cc59f18ad31a5373ae71d5f40d0b230"
+    },
+    {
+      "path": "src/services/camera-permission.ts",
+      "target": ".starter/reference-app/src/services/camera-permission.ts",
+      "category": "implementation",
+      "bytes": 286,
+      "sha256": "26f173e7e569b3bef0f7c6e810ca7fd1c24c96da709747fe553de75f990fc4a1"
+    },
+    {
+      "path": "src/services/foundation.ts",
+      "target": ".starter/reference-app/src/services/foundation.ts",
+      "category": "implementation",
+      "bytes": 1613,
+      "sha256": "16636ceb2dd51afcea630fe5d2a1491c378eb0172ca1ec7666ad048e6bfb826b"
+    },
+    {
+      "path": "src/services/import-manager.ts",
+      "target": ".starter/reference-app/src/services/import-manager.ts",
+      "category": "implementation",
+      "bytes": 4688,
+      "sha256": "addf5f8e43f04fce5b064c5e746831f17055948dbc62c8c34dbf22d4bcf56d56"
+    },
+    {
+      "path": "src/services/model-manager.ts",
+      "target": ".starter/reference-app/src/services/model-manager.ts",
+      "category": "implementation",
+      "bytes": 9687,
+      "sha256": "1e55a39ae320a62742820333d23d4040be80e83687093c1f3d0faac5001c4e66"
+    },
+    {
+      "path": "src/services/native-slot.ts",
+      "target": ".starter/reference-app/src/services/native-slot.ts",
+      "category": "implementation",
+      "bytes": 471,
+      "sha256": "e7e12a312ab122d1cce4095039d32cb5c3121ada88a26dde3f2bb7008e329ab7"
+    },
+    {
+      "path": "src/services/quiz-manager.ts",
+      "target": ".starter/reference-app/src/services/quiz-manager.ts",
+      "category": "implementation",
+      "bytes": 4917,
+      "sha256": "354aafe1685f69a82e91f311bcd05d0333dda38c8743cdc0f4d9e961cbae40a4"
+    },
+    {
+      "path": "src/services/sheet-dismissal.ts",
+      "target": ".starter/reference-app/src/services/sheet-dismissal.ts",
+      "category": "implementation",
+      "bytes": 734,
+      "sha256": "ffb5d03fa17e8a01a39b909fbb81e0a07efeb7f9039da70a59fc5e76a2e41d58"
+    },
+    {
+      "path": "src/services/study-manager.ts",
+      "target": ".starter/reference-app/src/services/study-manager.ts",
+      "category": "implementation",
+      "bytes": 4586,
+      "sha256": "28259a9d2ffddfb3660a19fc1ef1c29118236c1a544afdd453f407b031de1922"
+    },
+    {
+      "path": "src/t0/feasibility-model.json",
+      "target": ".starter/reference-app/src/t0/feasibility-model.json",
+      "category": "implementation",
+      "bytes": 686,
+      "sha256": "c9f36e8d95f1c074258d2c7d20bb327168f7316072cf0a636571fb1f4b085e85"
+    },
+    {
+      "path": "src/t0/model.json",
+      "target": ".starter/reference-app/src/t0/model.json",
+      "category": "implementation",
+      "bytes": 730,
+      "sha256": "121a406d1d70d3acac6026226ba96c8b852bf4933e68d38d3c79db360fa75793"
+    },
+    {
+      "path": "src/t0/native.ts",
+      "target": ".starter/reference-app/src/t0/native.ts",
+      "category": "implementation",
+      "bytes": 1654,
+      "sha256": "654de5bed4b356c20c2c4b84ba4bf6d8ac1d54a376514e1cc1d865498e7bcfe8"
+    },
+    {
+      "path": "src/t0/run.ts",
+      "target": ".starter/reference-app/src/t0/run.ts",
+      "category": "implementation",
+      "bytes": 2831,
+      "sha256": "0e348474f19c0fae6064e681a97073667fce69573faf083e6a071ddbbf95e1d2"
+    },
+    {
+      "path": "tests/buddy.test.mjs",
+      "target": ".starter/reference-app/tests/buddy.test.mjs",
+      "category": "implementation",
+      "bytes": 6592,
+      "sha256": "1455f12257bcc60d453bda3e98fb97498f161123a1433cbd78917a411dbffced"
+    },
+    {
+      "path": "tests/experience.test.mjs",
+      "target": ".starter/reference-app/tests/experience.test.mjs",
+      "category": "implementation",
+      "bytes": 2117,
+      "sha256": "7850dc4c6a60315094b4c886de1e83fe656662074a07b3f87219454243212e46"
+    },
+    {
+      "path": "tests/fixtures/t8/dataset.json",
+      "target": ".starter/reference-app/tests/fixtures/t8/dataset.json",
+      "category": "implementation",
+      "bytes": 12340,
+      "sha256": "8f54a973a08411114591d136024cdedfa499e5a9f6bfa42abe3c8d0c33a02763"
+    },
+    {
+      "path": "tests/foundation.test.mjs",
+      "target": ".starter/reference-app/tests/foundation.test.mjs",
+      "category": "implementation",
+      "bytes": 10913,
+      "sha256": "4126dffff476371e75c78b5d4f42ca9e31d599354001d754beb835d1f6321696"
+    },
+    {
+      "path": "tests/imports.test.mjs",
+      "target": ".starter/reference-app/tests/imports.test.mjs",
+      "category": "implementation",
+      "bytes": 12854,
+      "sha256": "efe3a888318f2318f07e0110d7b9663b7f9696e9c20bce5acc8950479ef9e4e5"
+    },
+    {
+      "path": "tests/ios/T7UITests.swift",
+      "target": ".starter/reference-app/tests/ios/T7UITests.swift",
+      "category": "implementation",
+      "bytes": 29234,
+      "sha256": "cc5fb008523094564f6c34815e117cdc764cf5d5c111c8eacea7c5dfddb711f3"
+    },
+    {
+      "path": "tests/model-manager.test.mjs",
+      "target": ".starter/reference-app/tests/model-manager.test.mjs",
+      "category": "implementation",
+      "bytes": 10232,
+      "sha256": "8d073a4003d958e0f43427a0c91ad6ae2af41fd8877059bc3ddb32ab732beafd"
+    },
+    {
+      "path": "tests/private-llama.test.mjs",
+      "target": ".starter/reference-app/tests/private-llama.test.mjs",
+      "category": "implementation",
+      "bytes": 834,
+      "sha256": "de43eee2dfaf566c7dc2e0cf4052cea154a41f6fa6518e862087968692faa7ce"
+    },
+    {
+      "path": "tests/progress.test.mjs",
+      "target": ".starter/reference-app/tests/progress.test.mjs",
+      "category": "implementation",
+      "bytes": 11941,
+      "sha256": "6226edc4f1c161ca549d053cdf476ba79b9e0030e71aa81efea6ffe5be8dd3e3"
+    },
+    {
+      "path": "tests/quiz.test.mjs",
+      "target": ".starter/reference-app/tests/quiz.test.mjs",
+      "category": "implementation",
+      "bytes": 12414,
+      "sha256": "21d14ed3fea92709ba4295bfc1a35aed9c5fc2eb0201081fb074e161644fc5c1"
+    },
+    {
+      "path": "tests/sheet-dismissal.test.mjs",
+      "target": ".starter/reference-app/tests/sheet-dismissal.test.mjs",
+      "category": "implementation",
+      "bytes": 1274,
+      "sha256": "20616ff126d7a2552bfdb5df4ed941a82339665e2343d3f230ad56df3b8256fb"
+    },
+    {
+      "path": "tests/storage.test.mjs",
+      "target": ".starter/reference-app/tests/storage.test.mjs",
+      "category": "implementation",
+      "bytes": 10915,
+      "sha256": "bdac3443b1433589d11e9e5b305b7c152bdb4613de69958fc230ec2ab1df59e5"
+    },
+    {
+      "path": "tests/study.test.mjs",
+      "target": ".starter/reference-app/tests/study.test.mjs",
+      "category": "implementation",
+      "bytes": 10144,
+      "sha256": "b92c3e43e00722d0aba64e9a45c76ceb0e831638e8d75d87a3b49e5d721540a4"
+    },
+    {
+      "path": "tests/t8-retrieval.test.mjs",
+      "target": ".starter/reference-app/tests/t8-retrieval.test.mjs",
+      "category": "implementation",
+      "bytes": 4446,
+      "sha256": "5e2339e84a2288fcead7e29996dd4199a4c5c6b7679324f696f2dca1f746de29"
+    },
+    {
+      "path": "tests/test_harness.py",
+      "target": ".starter/reference-app/tests/test_harness.py",
+      "category": "implementation",
+      "bytes": 1810,
+      "sha256": "cfa4f3bf214d5b2cd414e8d208ea1da465f756892e5b91b346688305bf19a4e2"
+    },
+    {
+      "path": "tsconfig.json",
+      "target": ".starter/reference-app/tsconfig.json",
+      "category": "implementation",
+      "bytes": 215,
+      "sha256": "d50a0c507d202cc17ef6fda81b34c4d36bc6f58cda3d55c9c19b2a3661fa5fee"
+    },
+    {
+      "path": ".starter/native-reference/Podfile",
+      "target": ".starter/native-reference/Podfile",
+      "category": "native-reference",
+      "bytes": 3169,
+      "sha256": "ebfa1ef5c81a0863167a88086f65837f4a790c0837610172c2eb73d7875101cb"
+    },
+    {
+      "path": ".starter/native-reference/Podfile.lock",
+      "target": ".starter/native-reference/Podfile.lock",
+      "category": "native-reference",
+      "bytes": 77603,
+      "sha256": "56a7ff13ad425209d0bc562301a8b4ac1a25a10c5385bfe74935ff4a4653c9d4"
+    },
+    {
+      "path": ".starter/native-reference/Podfile.properties.json",
+      "target": ".starter/native-reference/Podfile.properties.json",
+      "category": "native-reference",
+      "bytes": 348,
+      "sha256": "0de73f2ef8f2d4509ebe2efdf96c21f0c78c2b8a44e5f1946c53cfa2e01fdee5"
+    },
+    {
+      "path": ".starter/native-reference/android-gradle.properties",
+      "target": ".starter/native-reference/android-gradle.properties",
+      "category": "native-reference",
+      "bytes": 2567,
+      "sha256": "d02b52da10bf3abb24279fd102df47694b8130a6b7fe6110cc47a9476ac8673c"
+    }
+  ]
+}
